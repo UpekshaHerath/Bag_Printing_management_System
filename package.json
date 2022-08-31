@@ -1,0 +1,14 @@
+{
+  "name": "shopping-app",
+  "version": "1.0.0",
+  "description": "This is a simple shopping app",
+  "main": "renderer.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.1.0"
+  }
+}
