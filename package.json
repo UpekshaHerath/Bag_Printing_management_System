@@ -2,7 +2,7 @@
   "name": "shopping-app",
   "version": "1.0.0",
   "description": "This is a simple shopping app",
-  "main": "renderer.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
